@@ -37,7 +37,7 @@ Some antivirus engines may flag this tool due to its automation and network requ
 
 - We recommend downloading only from official links.
 
-- If you’re worried, feel free to inspect or build from the source code.
+- If you’re worried, you may seek support in the Discord Support server.
 > ✅ **No malicious behavior exists in this project.**
 
 For additional peace of mind:
