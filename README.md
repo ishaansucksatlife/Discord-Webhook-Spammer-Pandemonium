@@ -113,27 +113,41 @@ pip install requests
 
 ## 🚀 How It Works
 
-- Runs directly in your terminal (Windows, macOS, or Linux)  
-- Sends messages to the provided Discord webhook URL  
-- Supports two modes:  
-  • Fixed — send a specific number of messages  
-  • Infinite — spam until manually stopped  
-- Allows multiple threads to increase speed  
-- Uses a retry system to handle Discord rate limits  
-- Press **Enter** anytime to gracefully stop the spammer  
-- Displays clear success, warning, and error messages in color  
+- Runs directly in your terminal (Windows, macOS, or Linux)
+- Sends messages to the provided Discord webhook URL
+- Supports two modes:
+  • **Fixed** — send a specific number of messages
+  • **Infinite** — spam until manually stopped
+- Allows multiple threads to increase speed
+- Uses a retry system to handle Discord rate limits
+- Press **Enter** anytime to gracefully stop the spammer
+- Displays clear success, warning, and error messages in color
+- **Choose your method:**  
+  • Use the included `PandemoniumWebhookSpammer.exe` for instant access (no Python or dependencies required)  
+  • Or run the provided Python source code if you prefer to inspect or run the tool yourself
 
-
+---
 
 ## 🧪 How To Use
 
- #### ✅ (`PandemoniumWebhookSpammer.exe`)
+#### ✅ Using the Executable (`PandemoniumWebhookSpammer.exe`)
 
 1. Double-click or run `PandemoniumWebhookSpammer.exe` in your terminal.
 2. Enter the required inputs when prompted (webhook URL, message, mode, threads, delay).
 3. The spammer will start sending messages based on your selected mode.
 4. To stop spamming, press **Enter** anytime in the terminal.
 5. After completion, choose whether to restart or exit.
+
+#### 🐍 Using the Python Source Code
+
+1. Make sure you have Python installed on your system.
+2. Install any required dependencies listed in the project (see `requirements.txt` if provided).
+3. Run the script in your terminal:
+```
+python PandemoniumWebhookSpammer.py
+```
+4. Follow the same prompts as above to use the tool.
+5. 
 
 ## ⚙️ Configuration Options
 
