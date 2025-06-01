@@ -12,7 +12,7 @@ We understand that downloading `.exe` files can be a concern for many users. Tha
 
 ✅ The executable file `PandemoniumWebhookSpammer.exe` has been scanned and verified to be safe.
 
-🔗 **VirusTotal Scan Report:** [Click here to view the results]([https://www.virustotal.com/gui/file/your-scan-report-link-here](https://www.virustotal.com/gui/file/91f56a730589bb041e4de9328d8eb7f09bca54a96601fd008cdbc205c7daeacc))
+🔗 **VirusTotal Scan Report:** [Click here to view the results](https://www.virustotal.com/gui/file/91f56a730589bb041e4de9328d8eb7f09bca54a96601fd008cdbc205c7daeacc)
 
 > This scan confirms that the file contains no malware, spyware, or malicious behavior.
 
