@@ -147,7 +147,6 @@ pip install requests
 python PandemoniumWebhookSpammer.py
 ```
 4. Follow the same prompts as above to use the tool.
-5. 
 
 ## ⚙️ Configuration Options
 
