@@ -243,7 +243,7 @@ Never download from unofficial sources to avoid tampered or unsafe files.
 
 Join our **Discord Support Server**:  
 👉 [Pandemonium](https://discord.com/invite/HazvsVHxyE)
-[![Discord]([https://img.shields.io/discord/1234567890?label=Join%20Our%20Discord&logo=discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white))](https://discord.com/invite/HazvsVHxyE)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HazvsVHxyE)
 
 We’re happy to help with:
 
