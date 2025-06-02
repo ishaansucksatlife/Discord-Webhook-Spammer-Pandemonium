@@ -236,7 +236,9 @@ This tool is provided for educational and testing purposes only.
 **Abuse of Discord webhooks (including spamming) is against Discord's Terms of Service and can result in account or server sanctions.** Always use responsibly and only with webhooks you own or have permission to test[2][4].
 
 #### 🔗 Where can I get official releases?
-Official builds and the latest source code are always posted on our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases).  
+Official builds and the latest source code are always posted on our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases). 
+
+![GitHub release](https://img.shields.io/github/v/release/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium)  
 Never download from unofficial sources to avoid tampered or unsafe files.
 
 ## 💬 Need Help?
@@ -255,9 +257,9 @@ We’re happy to help with:
 Because sometimes, spamming is just about having control.
 
 **Follow me online:**  
-🔗 GitHub – [@ishaansucksatlife](https://github.com/ishaansucksatlife)
+🔗 GitHub – [![Ishaansucksatlife](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaansucksatlife)
 
-📱 Discord - [Pandemonium](https://discord.com/invite/HazvsVHxyE)
+📱 Discord - [![Pandemonium](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HazvsVHxyE)
 
 ## 🏷 Tags
 
