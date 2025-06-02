@@ -1,6 +1,6 @@
 # Pandemonium Webhook Spammer 🔗💻
- 
-An advanced multi-threaded Discord webhook spammer with a glowing multi-color console theme, rich configuration options, and detailed retry handling.
+
+A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-color console theme, flexible configuration options, and robust retry handling for smooth operation.
 
 > 💻 Built by **Plasma**
 
@@ -94,15 +94,21 @@ Override the default webhook name and icon for every message.
 
 ## 📦 Requirements
 
-To run **PandemoniumWebhook Spammer.exe**, you need:
+### To run **PandemoniumWebhookSpammer.exe** (Windows Executable):
+
+- Windows operating system
+- Internet connection
+
+> **No Python installation or additional setup is required for the `.exe` file. Just download and run.**
+
+---
+
+### To run **PandemoniumWebhookSpammer.py** (Python Source Code):
 
 - Python 3.8+ installed  
 - Internet connection  
-- The following Python packages:
-
-```txt
-requests
-```
+- The following Python package:
+`requests`
 
 ### To install the dependency, run this command:
 ```bash
@@ -176,10 +182,8 @@ python PandemoniumWebhookSpammer.py
 ## 📂 Included Files
 
 - `README.md` → This help file with setup instructions  
-- `PandemoniumWebhookSpammer.exe` → The main executable spammer tool  
-
-
-
+- `PandemoniumWebhookSpammer.exe` → The main executable spammer tool (no Python required)  
+- `PandemoniumWebhookSpammer.py` → The full Python source code for running or inspecting the tool
 
 ## 📄 License
 
@@ -200,26 +204,25 @@ You may **not**:
 ## ❓ FAQ
 
 #### ⚙️ Why does my antivirus flag the `.exe`?
-Some antivirus engines use heuristic detection, meaning they flag **any** program that automates actions or sends repeated requests — even if it’s harmless. PandemoniumWebhookSpammer uses automated scripts, which can trigger these flags. You can review the VirusTotal report linked above for full transparency.
-
-
+Some antivirus engines use heuristic detection, meaning they flag **any** program that automates actions or sends repeated requests—even if it’s harmless. PandemoniumWebhookSpammer uses automated scripts and network requests, which can trigger these flags. You can always review the VirusTotal report linked above for full transparency.
 
 #### 🖥️ Do I need Python installed to run the `.exe`?
-No. The `PandemoniumWebhookSpammer.exe` file is a standalone executable that includes all dependencies. Just download and run.
-
-
+No. The `PandemoniumWebhookSpammer.exe` file is a standalone executable that includes all dependencies. Just download and run—no Python or extra setup required.
 
 #### 🌐 Does this tool work on Mac or Linux?
-Currently, only Windows `.exe` builds are provided. If you want to run it on other systems, you’ll need to run the Python source (Not Public).
+Currently, only Windows `.exe` builds are provided.  
+If you want to use the tool on Mac or Linux, you can run the included Python source code with Python installed on your system.
 
+#### 📦 Is the source code available?
+Yes! The full source code is included in every release, alongside the `.exe`. This allows you to inspect and run the tool yourself on any platform with Python installed.
 
+#### 🚨 Is using a webhook spammer safe and allowed?
+This tool is provided for educational and testing purposes only.  
+**Abuse of Discord webhooks (including spamming) is against Discord's Terms of Service and can result in account or server sanctions.** Always use responsibly and only with webhooks you own or have permission to test[2][4].
 
-#### 📦 Will you release the source code?
-The project is currently closed-source to prevent abuse, tampering, and unauthorized redistribution. Official builds are always posted on our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases).
-
-
-
-
+#### 🔗 Where can I get official releases?
+Official builds and the latest source code are always posted on our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases).  
+Never download from unofficial sources to avoid tampered or unsafe files.
 
 ## 💬 Need Help?
 
