@@ -22,7 +22,7 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 
 ---
 
-## 🛡️ Safety & Assurance
+## 🛡️ Safety & Assurance <a id="safety-and-assurance"></a>
 
 We understand that downloading `.exe` files can be a concern for many users. That's why we prioritize transparency and user trust.
 
@@ -170,7 +170,7 @@ python PandemoniumWebhookSpammer.py
 ```
 4. Follow the same prompts as above to use the tool.
 
-## ⚙️ Configuration Options
+## ⚙️ Configuration Options <a id="configuration-options"></a>
 
 | Setting           | Description                                           |
 | ----------------- | ----------------------------------------------------- |
