@@ -11,10 +11,11 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 
 ## 📚 Table of Contents
 
-- [About](#-Pandemonium-Webhook-Spammer-🔗💻)
-- [Safety & Assurance](##-🛡️-Safety-&-Assurance)
-- [Note](##-⚠️-Note)
-- [Features](##-🔥-Features)
+## 📚 Table of Contents
+
+- [Safety & Assurance](#-safety--assurance)
+- [Note](#️-note)
+- [Features](#-features)
 - [Requirements](#-requirements)
 - [How It Works](#-how-it-works)
 - [How To Use](#-how-to-use)
@@ -24,6 +25,8 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 - [License](#-license)
 - [FAQ](#-faq)
 - [Need Help?](#-need-help)
+- [About](#-made-by-plasma)
+
 
 ---
 
