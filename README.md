@@ -4,6 +4,22 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 
 > 💻 Built by **Plasma**
 
+## 📚 Table of Contents
+
+- [About](#-pandemonium-webhook-spammer)
+- [Safety & Assurance](#-safety--assurance)
+- [Note](#️-note)
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [How It Works](#-how-it-works)
+- [How To Use](#-how-to-use)
+- [Configuration Options](#-configuration-options)
+- [Supported Modes](#-supported-modes)
+- [Included Files](#-included-files)
+- [License](#-license)
+- [FAQ](#-faq)
+- [Need Help?](#-need-help)
+
 ---
 
 ## 🛡️ Safety & Assurance
