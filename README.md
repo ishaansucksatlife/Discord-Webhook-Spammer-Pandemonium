@@ -6,7 +6,7 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 
 ## 📚 Table of Contents
 
-- [About](#-pandemonium-webhook-spammer)
+- [About](#-Pandemonium-Webhook-Spammer-🔗💻)
 - [Safety & Assurance](#-safety--assurance)
 - [Note](#️-note)
 - [Features](#-features)
