@@ -187,19 +187,18 @@ python PandemoniumWebhookSpammer.py
 
 ## 📄 License
 
-This project is proprietary software provided for:
+This project is proprietary software and is provided under the following terms:
 
-- Personal use  
-- Non-commercial testing
+- For personal use and non-commercial testing only
+- Redistribution is allowed **only** with proper credit to the original author
 
 You may **not**:
 
-- Reverse-engineer, decompile, or modify the executable  
-- Redistribute it without credit  
-- Use it for illegal or malicious purposes
+- Reverse-engineer, decompile, or modify the executable or source code
+- Redistribute without giving credit
+- Use this tool for illegal, malicious, or unauthorized purposes
 
-
-
+By using this software, you agree to these terms.
 
 ## ❓ FAQ
 
