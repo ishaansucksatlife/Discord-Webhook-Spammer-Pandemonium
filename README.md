@@ -10,18 +10,23 @@ An advanced multi-threaded Discord webhook spammer with a glowing multi-color co
 
 We understand that downloading `.exe` files can be a concern for many users. That's why we prioritize transparency and user trust.
 
-✅ The executable file `PandemoniumWebhookSpammer.exe` has been scanned and verified to be safe.
+✅ Both the executable file `PandemoniumWebhookSpammer.exe` **and the full source code** are provided for every release.
+
+- **Executable (`.exe`):** For convenience, you can use the pre-built `.exe` even if you don’t have Python or any dependencies installed.
+- **Source Code:** For those who prefer to inspect, verify, or run the tool directly from Python, the complete source code is included.
+
+To ensure your safety, we have scanned the `PandemoniumWebhookSpammer.exe` file using [VirusTotal](https://www.virustotal.com/), a trusted online service that checks files against dozens of antivirus engines to detect malware or suspicious behavior.
 
 🔗 **VirusTotal Scan Report:** [Click here to view the results](https://www.virustotal.com/gui/file/91f56a730589bb041e4de9328d8eb7f09bca54a96601fd008cdbc205c7daeacc)
 
 > This scan confirms that the file contains no malware, spyware, or malicious behavior.
 
-Some antivirus engines may flag this tool due to its automation and network request capabilities, as well as how it’s packaged as a `.exe`. Rest assured:  
+Some antivirus engines may flag this tool due to its automation and network request capabilities, as well as how it’s packaged as a `.exe`. Please note:  
 > These are generic heuristic tags:
 
 | **Engine**                                 | **Detection Name**                    | **What it Means**                                                                     |
 | ------------------------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------- |
-| ALYac, BitDefender, GData, Emsisoft, eScan | Gen\:Variant.Tedy.770190              | Generic heuristic detection — flags tools made using application packers.   |
+| ALYac, BitDefender, GData, Emsisoft, eScan | Gen:Variant.Tedy.770190               | Generic heuristic detection — flags tools made using application packers.             |
 | Antiy-AVL                                  | RiskWare/Win32.Kryptik.a              | Flags automation tools or executables that connect to the network frequently.         |
 | Arcabit                                    | Trojan.Tedy.DBC08E                    | Heuristic flag due to behavior, **not** confirmed malicious payload.                  |
 | Arctic Wolf                                | Unsafe                                | General warning — based on behavior, not confirmed malicious code.                    |
@@ -33,16 +38,17 @@ Some antivirus engines may flag this tool due to its automation and network requ
 
 > **🏷 Final Assurance:**
 
-- No malicious payloads are hidden in this tool.
-
+- No malicious payloads are present in this tool.
+- You are free to use either the source code or the `.exe`, depending on your preference.
 - We recommend downloading only from official links.
-
-- If you’re worried, you may seek support in the Discord Support server.
+- If you have concerns, you may seek support in the Discord Support server.
 > ✅ **No malicious behavior exists in this project.**
 
 For additional peace of mind:
-- The source code remains private to prevent tampering and unauthorized edits.
-- Only use the official executable from our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases) to ensure safety.
+- The official source code is included for transparency and user verification.
+- Only use the executable and source code from our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases) to ensure safety.
+
+> **Disclaimer:** The `.exe` is provided for convenience. Always use software responsibly and in accordance with Discord’s Terms of Service.
 
 If you have any doubts or questions, feel free to ask in our [Discord Support Server](https://discord.com/invite/HazvsVHxyE).
 
@@ -107,27 +113,40 @@ pip install requests
 
 ## 🚀 How It Works
 
-- Runs directly in your terminal (Windows, macOS, or Linux)  
-- Sends messages to the provided Discord webhook URL  
-- Supports two modes:  
-  • Fixed — send a specific number of messages  
-  • Infinite — spam until manually stopped  
-- Allows multiple threads to increase speed  
-- Uses a retry system to handle Discord rate limits  
-- Press **Enter** anytime to gracefully stop the spammer  
-- Displays clear success, warning, and error messages in color  
+- Runs directly in your terminal (Windows, macOS, or Linux)
+- Sends messages to the provided Discord webhook URL
+- Supports two modes:
+  • **Fixed** — send a specific number of messages
+  • **Infinite** — spam until manually stopped
+- Allows multiple threads to increase speed
+- Uses a retry system to handle Discord rate limits
+- Press **Enter** anytime to gracefully stop the spammer
+- Displays clear success, warning, and error messages in color
+- **Choose your method:**  
+  • Use the included `PandemoniumWebhookSpammer.exe` for instant access (no Python or dependencies required)  
+  • Or run the provided Python source code if you prefer to inspect or run the tool yourself
 
-
+---
 
 ## 🧪 How To Use
 
- #### ✅ (`PandemoniumWebhookSpammer.exe`)
+#### ✅ Using the Executable (`PandemoniumWebhookSpammer.exe`)
 
 1. Double-click or run `PandemoniumWebhookSpammer.exe` in your terminal.
 2. Enter the required inputs when prompted (webhook URL, message, mode, threads, delay).
 3. The spammer will start sending messages based on your selected mode.
 4. To stop spamming, press **Enter** anytime in the terminal.
 5. After completion, choose whether to restart or exit.
+
+#### 🐍 Using the Python Source Code
+
+1. Make sure you have Python installed on your system.
+2. Install any required dependencies listed in the project (see `requirements.txt` if provided).
+3. Run the script in your terminal:
+```
+python PandemoniumWebhookSpammer.py
+```
+4. Follow the same prompts as above to use the tool.
 
 ## ⚙️ Configuration Options
 
