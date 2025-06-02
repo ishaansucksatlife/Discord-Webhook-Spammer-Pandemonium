@@ -249,6 +249,22 @@ We’re happy to help with:
 - 💡 Feature suggestions  
 - 🙋 General support
 
+## 📚 Table of Contents
+
+- [About](#pandemonium-webhook-spammer-)
+- [Safety & Assurance](#-safety--assurance)
+- [Note](#️-note)
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [How It Works](#-how-it-works)
+- [How To Use](#-how-to-use)
+- [Configuration Options](#-configuration-options)
+- [Supported Modes](#-supported-modes)
+- [Included Files](#-included-files)
+- [License](#-license)
+- [FAQ](#-faq)
+- [Need Help?](#-need-help)
+- [Made by Plasma](#-made-by-plasma)
 
 
 ## 💻 Made by Plasma
