@@ -238,7 +238,6 @@ This tool is provided for educational and testing purposes only.
 #### 🔗 Where can I get official releases?
 Official builds and the latest source code are always posted on our [GitHub releases](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/releases). 
 
-![GitHub release](https://img.shields.io/github/v/release/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium)  
 Never download from unofficial sources to avoid tampered or unsafe files.
 
 ## 💬 Need Help?
