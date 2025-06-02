@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Pandemonium Webhook Spammer 🔗💻
 
 A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-color console theme, flexible configuration options, and robust retry handling for smooth operation.
@@ -11,8 +6,7 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 
 ## 📚 Table of Contents
 
-## 📚 Table of Contents
-
+- [About](#-pandemonium-webhook-spammer)
 - [Safety & Assurance](#-safety--assurance)
 - [Note](#️-note)
 - [Features](#-features)
@@ -25,7 +19,7 @@ A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-col
 - [License](#-license)
 - [FAQ](#-faq)
 - [Need Help?](#-need-help)
-- [About](#-made-by-plasma)
+
 
 
 ---
