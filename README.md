@@ -3,8 +3,6 @@
 A powerful, multi-threaded Discord webhook spammer featuring a vibrant multi-color console theme, flexible configuration options, and robust retry handling for smooth operation.
 
 > 💻 Built by **Plasma**
-[![GitHub Stars](https://img.shields.io/github/stars/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium?style=for-the-badge)](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium?style=for-the-badge)](https://github.com/ishaansucksatlife/Discord-Webhook-Spammer-Pandemonium/fork)
 
 ## 📚 Table of Contents
 
