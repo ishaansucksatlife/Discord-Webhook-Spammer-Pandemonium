@@ -243,6 +243,7 @@ Never download from unofficial sources to avoid tampered or unsafe files.
 
 Join our **Discord Support Server**:  
 👉 [Pandemonium](https://discord.com/invite/HazvsVHxyE)
+[![Discord](https://img.shields.io/discord/1234567890?label=Join%20Our%20Discord&logo=discord)](https://discord.com/invite/HazvsVHxyE)
 
 We’re happy to help with:
 
@@ -258,3 +259,7 @@ Because sometimes, spamming is just about having control.
 🔗 GitHub – [@ishaansucksatlife](https://github.com/ishaansucksatlife)
 
 📱 Discord - [Pandemonium](https://discord.com/invite/HazvsVHxyE)
+
+## 🏷 Tags
+
+`discord` `webhook` `automation` `python` `multi-threading` `spammer` `bot` `open-source`
